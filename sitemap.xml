@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://ferrystars.xyz/post/42075.html</loc>
+    
+    <lastmod>2022-09-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://ferrystars.xyz/post/4254693201.html</loc>
     
     <lastmod>2022-09-01</lastmod>
@@ -11,18 +20,9 @@
   </url>
   
   <url>
-    <loc>https://ferrystars.xyz/post/42075.html</loc>
-    
-    <lastmod>2022-08-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://ferrystars.xyz/post/1160302286.html</loc>
     
-    <lastmod>2022-08-18</lastmod>
+    <lastmod>2022-08-24</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
