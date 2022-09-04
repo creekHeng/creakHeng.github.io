@@ -1,9 +1,13 @@
-User-agent: *Allow: / 
+User-agent: *
+Allow: / 
 Allow: /archives/ 
 Allow: /tags/ 
 Allow: /categories/ 
 Allow: /about/ 
+
 Disallow: /js/
 Disallow: /css/ 
 Disallow: /lib/ 
+
 Sitemap: https://ferrystars.xyz/baidusitemap.xml
+Sitemap: https://ferrystars.xyz/sitemap.xml
